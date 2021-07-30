@@ -1,0 +1,8 @@
+name: BedWars EasyMC
+version: 1.0
+author: modie
+main: de.modie.bedwars.main.Main
+
+commands:
+   bedwars:
+   start:
